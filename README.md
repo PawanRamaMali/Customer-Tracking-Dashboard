@@ -1,6 +1,6 @@
 # Customer-Tracking-Dashboard
 
-Customer Tracking Dashboard in R
+## Customer Tracking Dashboard in R
 
 
 ## Data Explanation
